@@ -13,20 +13,7 @@ composer require swoft/auth
 ## Document [wiki](https://github.com/aprchen/swoft-auth/wiki)
 
 now
-- BasicAuth 
-- BearerToken  (JWT)
-- Acl
-
-feature
-- oauth 2.0 
-
-
-
-## Unit testing
-
-```bash
-phpunit
-```
+- SxxAdminAuth 
 
 ## LICENSE
 
